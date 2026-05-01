@@ -60,7 +60,7 @@ DATATHON-2026-ROUND-1/
 ├── notebooks/              # Jupyter notebooks phục vụ phân tích và thử nghiệm
 │   ├── 01_QA.ipynb         # Kiểm tra chất lượng dữ liệu (Quality Assurance)
 │   ├── 02_EDA_V2.ipynb     # Khám phá dữ liệu (Exploratory Data Analysis) phiên bản bổ sung
-│   └── EDA_1_7.ipynb       # Các phân tích thăm dò angle 1 và angle 2
+│   └── EDA_1_7.ipynb       # Các phân tích thăm dò angle 1 và angle 7
 ├── src/                    # Mã nguồn chính của dự án
 │   ├── __init__.py
 │   ├── features.py         # Xử lý biến và đặc trưng (Feature Engineering)
